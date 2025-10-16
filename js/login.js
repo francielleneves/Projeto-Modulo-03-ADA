@@ -1,4 +1,4 @@
-// js/login.js
+
 const formLogin = document.getElementById('login-form');
 
 formLogin.addEventListener('submit', async (event) => {
