@@ -1,4 +1,4 @@
-// js/home.js
+
 import { checkAuth, logout } from './auth.js';
 
 document.addEventListener('DOMContentLoaded', () => {
